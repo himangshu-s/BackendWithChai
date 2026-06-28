@@ -1,0 +1,20 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "a simple app to deploy",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "chai",
+    "node"
+  ],
+  "author": "himangshu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
